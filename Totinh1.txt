@@ -1,1 +1,1 @@
-{"linkResource":"https://dl.to68.club/asset/t1/","linkCheck":"https://services.to68.club/api/transaction/fetch"}
+{"linkResource":"https://dl.to66.club/asset/t1/","linkCheck":"https://services.to66.club/api/transaction/fetch"}
